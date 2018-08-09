@@ -1,2 +1,2 @@
 # leetcode
-# this is leetcode work what I do.
+  this is leetcode work I did.
